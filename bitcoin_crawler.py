@@ -39,15 +39,6 @@ class BitcoinCrawler(CoinCrawler):
         except Exception as e:
             print(e)
 
-    @staticmethod
-    def average(cache):
-        sum_elements = 0
-
-        for value in cache:
-            sum_elements += value
-
-        return sum_elements / len(cache)
-
     def _run(self):
         while True:
             coin = self.get_current_coin()
@@ -57,7 +48,7 @@ class BitcoinCrawler(CoinCrawler):
                 self.cache.append(coin)
 
                 if len(self.cache) == self.max_cache:
-                    self.logger.info("The average rate for last cache is: %.2f"
+                    self.logger.info("The average rate for last cache is: %.2f$"
                                      % self.average(self.cache))
                     self._push_to_db()
 

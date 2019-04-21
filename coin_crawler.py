@@ -13,6 +13,15 @@ class CoinCrawler(ABC):
 
         self.interval = interval
 
+    @staticmethod
+    def average(cache):
+        sum_elements = 0
+
+        for value in cache:
+            sum_elements += value
+
+        return sum_elements / len(cache)
+
     @abstractmethod
     def get_current_coin(self):
         raise NotImplementedError
