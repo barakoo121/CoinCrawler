@@ -24,7 +24,7 @@ class BitcoinCrawler(CoinCrawler):
             return float(response_json[0]['price_usd'])
 
         except Exception as e:
-            self.logger.error("Error retrieving data from api")
+            self.logger.error("Error retrieving data from api: %s" % e)
 
             return None
 
