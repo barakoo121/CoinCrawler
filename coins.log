@@ -1,0 +1,207 @@
+2019-04-21 18:01:48,287 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:01:48,288 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:01:49,637 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:01:49,637 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:01:50,966 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:01:50,966 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:01:52,283 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:01:52,283 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:01:53,604 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:01:53,604 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:01:54,929 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:01:54,930 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:01:56,252 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:01:56,252 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:01:57,593 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:01:57,594 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:01:58,932 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:01:58,933 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:02:00,265 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:02:00,265 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:02:00,265 - coin_application - INFO - The average rate for last cache is: 5288.95
+2019-04-21 18:02:00,268 - coin_application - DEBUG - Succeded to push key 2019-04-21 18:02:00.265898
+2019-04-21 18:02:01,600 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:02:01,600 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:02:02,931 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:02:02,931 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:02:04,268 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:02:04,269 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:02:05,597 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:02:05,597 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:02:06,929 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:02:06,929 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:02:08,259 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:02:08,260 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:02:09,595 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:02:09,599 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:02:10,951 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:02:10,951 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:02:12,283 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:02:12,284 - coin_application - INFO - Current bitcoin currency is: 5288.95$
+2019-04-21 18:04:14,586 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:14,587 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:04:15,907 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:15,908 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:04:17,262 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:17,263 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:04:18,595 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:18,596 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:04:19,951 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:19,951 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:04:21,296 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:21,296 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:04:22,630 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:22,630 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:04:23,962 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:23,963 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:04:25,297 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:25,298 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:04:26,634 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:26,634 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:04:26,634 - coin_application - INFO - The average rate for last cache is: 5287.55$
+2019-04-21 18:04:26,637 - coin_application - DEBUG - Succeded to push key 2019-04-21 18:04:26.634801
+2019-04-21 18:04:27,954 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:04:27,954 - coin_application - INFO - Current bitcoin currency is: 5287.55$
+2019-04-21 18:09:24,616 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:09:24,617 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:09:25,940 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:09:25,941 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:10:51,897 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:10:51,899 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:10:53,237 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:10:53,237 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:10:54,576 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:10:54,576 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:10:55,906 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:10:55,906 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:10:57,222 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:10:57,223 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:10:58,547 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:10:58,548 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:10:59,876 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:10:59,876 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:11:01,217 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:01,218 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:11:02,546 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:02,546 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:11:03,895 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:03,895 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:11:03,895 - coin_application - INFO - The average rate for last cache is: 5285.00$
+2019-04-21 18:11:05,246 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:05,247 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:11:06,581 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:06,583 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:11:07,910 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:07,911 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:11:09,233 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:09,236 - coin_application - INFO - Current bitcoin currency is: 5285.00$
+2019-04-21 18:11:10,559 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:10,559 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:11,901 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:11,901 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:13,231 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:13,231 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:14,556 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:14,556 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:15,890 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:15,890 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:17,215 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:17,216 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:17,216 - coin_application - INFO - The average rate for last cache is: 5285.48$
+2019-04-21 18:11:18,589 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:18,589 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:19,912 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:19,912 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:21,256 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:21,257 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:22,608 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:22,608 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:23,915 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:23,916 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:25,256 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:25,256 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:27,468 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:27,468 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:29,401 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:29,402 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:30,737 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:30,738 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:32,090 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:32,090 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:32,090 - coin_application - INFO - The average rate for last cache is: 5285.80$
+2019-04-21 18:11:33,432 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:33,433 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:34,754 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:34,754 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:36,100 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:36,101 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:37,448 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:37,448 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:38,802 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:38,805 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:40,126 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:40,126 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:41,461 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:41,461 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:42,840 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:42,840 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:44,164 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:44,165 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:45,486 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:45,486 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:45,486 - coin_application - INFO - The average rate for last cache is: 5285.80$
+2019-04-21 18:11:46,808 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:46,809 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:48,163 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:48,164 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:49,524 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:49,524 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:50,866 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:50,866 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:52,193 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:52,194 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:53,522 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:53,522 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:54,851 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:54,851 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:56,183 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:56,183 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:57,503 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:57,503 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:58,866 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:11:58,866 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:11:58,866 - coin_application - INFO - The average rate for last cache is: 5285.80$
+2019-04-21 18:12:00,229 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:12:00,230 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:12:01,596 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:12:01,597 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:12:02,933 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:12:02,934 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:12:04,258 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:12:04,258 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:12:05,615 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:12:05,616 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:12:06,951 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:12:06,951 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:12:08,284 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:12:08,285 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:12:09,617 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:12:09,617 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:12:10,959 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:12:10,960 - coin_application - INFO - Current bitcoin currency is: 5285.80$
+2019-04-21 18:13:59,875 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:13:59,875 - coin_application - INFO - Current bitcoin currency is: 5284.28$
+2019-04-21 18:14:01,198 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:14:01,198 - coin_application - INFO - Current bitcoin currency is: 5284.28$
+2019-04-21 18:14:02,524 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:14:02,524 - coin_application - INFO - Current bitcoin currency is: 5284.28$
+2019-04-21 18:14:03,854 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:14:03,854 - coin_application - INFO - Current bitcoin currency is: 5284.28$
+2019-04-21 18:14:05,176 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:14:05,177 - coin_application - INFO - Current bitcoin currency is: 5284.28$
+2019-04-21 18:14:06,508 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:14:06,509 - coin_application - INFO - Current bitcoin currency is: 5284.28$
+2019-04-21 18:14:07,852 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:14:07,852 - coin_application - INFO - Current bitcoin currency is: 5284.28$
+2019-04-21 18:14:09,186 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:14:09,190 - coin_application - INFO - Current bitcoin currency is: 5284.28$
