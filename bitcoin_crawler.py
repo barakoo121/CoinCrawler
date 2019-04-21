@@ -34,10 +34,10 @@ class BitcoinCrawler(CoinCrawler):
             if self.db.set(now_, self.average(self.cache)):
                 self.logger.debug("Succeded to push key %s" % now_)
             else:
-                self.logger.error("Db push error")
+                self.logger.error("Db push false reply")
 
         except Exception as e:
-            print(e)
+            self.logger.error("Error pushing to db: %s" % e)
 
     def _run(self):
         while True:
