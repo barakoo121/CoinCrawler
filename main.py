@@ -9,7 +9,7 @@ def main():
 
     db = DbConnection('localhost', 6379, logger.logger)
 
-    BitcoinCrawler(1, logger.logger,
+    BitcoinCrawler(60, logger.logger,
                    'https://api.coinmarketcap.com/v1/ticker/bitcoin/',
                    10, db)
 

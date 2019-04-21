@@ -205,3 +205,5 @@
 2019-04-21 18:14:07,852 - coin_application - INFO - Current bitcoin currency is: 5284.28$
 2019-04-21 18:14:09,186 - coin_application - DEBUG - Retrieved data from api
 2019-04-21 18:14:09,190 - coin_application - INFO - Current bitcoin currency is: 5284.28$
+2019-04-21 18:19:39,312 - coin_application - DEBUG - Retrieved data from api
+2019-04-21 18:19:39,315 - coin_application - INFO - Current bitcoin currency is: 5280.08$
